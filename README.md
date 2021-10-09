@@ -8,6 +8,10 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
   <a href="https://twitter.com/jithset">Twitter</a>
 </p>
 
+---
+
+📊 **Weekly development breakdown**
+
 <!--START_SECTION:waka-->
 ```text
 Markdown   1 hr 48 mins    ███████░░░░░░░░░░░░░░░░░░   28.25 % 
