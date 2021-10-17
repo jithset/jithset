@@ -14,11 +14,11 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <!--START_SECTION:waka-->
 ```text
-Java         5 hrs 54 mins   ███████████▒░░░░░░░░░░░░░   44.79 % 
-Python       1 hr 52 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-Properties   1 hr 40 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-Rust         1 hr 5 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
-Markdown     48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+Java         4 hrs 48 mins   ██████████░░░░░░░░░░░░░░░   40.14 % 
+Python       1 hr 52 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+Properties   1 hr 40 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+Rust         1 hr 5 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+YAML         44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
 ```
 <!--END_SECTION:waka-->
 
