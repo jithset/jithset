@@ -14,11 +14,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <!--START_SECTION:waka-->
 ```text
-Python     1 hr 22 mins    ██████████░░░░░░░░░░░░░░░   40.37 % 
-Rust       56 mins         ███████░░░░░░░░░░░░░░░░░░   27.77 % 
-Java       21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-Markdown   21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-YAML       9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
