@@ -14,7 +14,11 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Java         2 hrs 37 mins   ██████████████████▓░░░░░░   75.12 % 
+YAML         26 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Properties   16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+Markdown     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 ```
 <!--END_SECTION:waka-->
 
