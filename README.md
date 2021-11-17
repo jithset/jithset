@@ -14,11 +14,11 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <!--START_SECTION:waka-->
 ```text
-Java       14 hrs 53 mins  ██████████████████████░░░   87.36 % 
-SQL        1 hr 7 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
-Rust       28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-Markdown   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
-YAML       13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+Java       17 hrs 33 mins  ███████████████████████░░   92.26 % 
+Rust       28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+SQL        24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+Markdown   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+YAML       13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 ```
 <!--END_SECTION:waka-->
 
