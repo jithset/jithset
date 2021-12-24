@@ -14,11 +14,11 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <!--START_SECTION:waka-->
 ```text
-Java         6 hrs 39 mins   ███████████████░░░░░░░░░░   59.83 % 
-SQL          2 hrs 41 mins   ██████░░░░░░░░░░░░░░░░░░░   24.18 % 
-Markdown     39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-Properties   37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-XML          14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+Java         6 hrs 22 mins   ████████████████████▒░░░░   81.82 % 
+SQL          41 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+Properties   23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+XML          12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Markdown     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 ```
 <!--END_SECTION:waka-->
 
