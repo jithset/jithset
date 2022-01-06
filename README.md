@@ -14,8 +14,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <!--START_SECTION:waka-->
 ```text
-Java             1 hr 33 mins    ██████████████████████░░░   88.06 % 
-YAML             12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
