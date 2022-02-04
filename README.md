@@ -14,7 +14,9 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   3 hrs 1 min     █████████████████░░░░░░░░   67.81 % 
+Markdown     58 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.66 % 
+JSON         27 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
 ```
 <!--END_SECTION:waka-->
 
