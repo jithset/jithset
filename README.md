@@ -15,9 +15,9 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <!--START_SECTION:waka-->
 
 ```text
-Rust         2 hrs 10 mins   ████████████████████████▒   97.74 %
-TOML         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Rust         1 hr            ███████████████████████▓░   95.26 %
+TOML         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
