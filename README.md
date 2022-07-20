@@ -15,8 +15,8 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <!--START_SECTION:waka-->
 
 ```text
-Java         8 hrs 37 mins   ████████████████▒░░░░░░░░   65.71 %
-Other        1 hr 26 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 %
+Java         10 hrs 24 mins  █████████████████▒░░░░░░░   69.96 %
+Other        1 hr 26 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 %
 ```
 
 <!--END_SECTION:waka-->
