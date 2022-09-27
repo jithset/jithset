@@ -15,12 +15,12 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     1 hr 19 mins    ████████████████░░░░░░░░░   64.36 %
-TypeScript   22 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.54 %
-YAML         12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 %
-JavaScript   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
-JSON         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
-Groovy       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+Markdown     1 hr 28 mins    █████████████████░░░░░░░░   67.52 %
+Java         20 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.55 %
+YAML         12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 %
+JavaScript   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
+JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+Groovy       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
 ```
 
 <!--END_SECTION:waka-->
