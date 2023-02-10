@@ -15,12 +15,12 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <!--START_SECTION:waka-->
 
 ```text
-textmate     33 mins         ███████████░░░░░░░░░░░░░░   43.52 %
-Properties   24 mins         ████████░░░░░░░░░░░░░░░░░   31.65 %
-Python       14 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.96 %
-Java         3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
-Text         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Properties   49 mins         ███████████▓░░░░░░░░░░░░░   46.42 %
+textmate     26 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.97 %
+Python       26 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.75 %
+Java         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+Text         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
